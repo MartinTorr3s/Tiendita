@@ -1,0 +1,72 @@
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll

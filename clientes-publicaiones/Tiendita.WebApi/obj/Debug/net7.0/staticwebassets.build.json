@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0QVWT4i8n+RLoN7ma8NoOZs7bTnJF7lUAx2P4KdqFYs=",
+  "Source": "Tiendita.WebApi",
+  "BasePath": "_content/Tiendita.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

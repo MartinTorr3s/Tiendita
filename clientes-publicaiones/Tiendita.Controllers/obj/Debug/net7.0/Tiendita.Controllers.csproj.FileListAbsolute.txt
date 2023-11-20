@@ -1,0 +1,90 @@
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.deps.json
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\refint\Tiendita.Controllers.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\Tiendita.Controllers.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tiendita.Controllers\obj\Debug\net7.0\ref\Tiendita.Controllers.dll

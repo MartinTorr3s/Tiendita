@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "projectName": "Tiendita.Entity",
+        "projectPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+        "projectName": "Tiendita.ReglasdeNegocio",
+        "projectPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj",
+        "projectName": "Tiendita.Repository",
+        "projectPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj",
+        "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
+                "projectPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj"
+              },
+              "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+                "projectPath": "C:\\Users\\Martin\\Desktop\\aaa\\aaa\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

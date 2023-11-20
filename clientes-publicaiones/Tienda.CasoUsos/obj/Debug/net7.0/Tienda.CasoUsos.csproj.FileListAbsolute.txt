@@ -1,0 +1,102 @@
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Familia\Downloads\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\programacion\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Familia\Desktop\proyecto-tienda-clientes-publicaciones 1\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.deps.json
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.AssemblyInfo.cs
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.csproj.CopyComplete
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\refint\Tienda.CasoUsos.dll
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\Tienda.CasoUsos.pdb
+C:\Users\Martin\Desktop\aaa\aaa\clientes-publicaiones\Tienda.CasoUsos\obj\Debug\net7.0\ref\Tienda.CasoUsos.dll
